@@ -79,4 +79,28 @@ Host Name	46-13-198-163.customers.tmcz.cz
 ISP	T-Mobile Czech Republic a.s.
 
 4
-
+Date/Time	2025-06-25 19:30:27 UTC
+IP Address	94.74.227.227
+Country 
+Czechia, Olomouc
+Battery	5%
+Charging	Yes
+Orientation	portrait-primary
+Timezone	Europe/Prague GMT+2
+User Time	Wed Jun 25 2025 21:30:26 GMT+0200 (středoevropský letní čas)
+Language	cs-CZ
+Incognito/Private Window	No
+Ad Blocker	No
+Screen Size	424 x 848 @ 42Hz
+Colour Scheme	Dark
+HDR Screen	No
+Local IP	192.168.0.101
+GPU	ANGLE (Imagination Technologies, PowerVR Rogue GE8300, OpenGL ES 3.2)
+Browser	Chrome Mobile (137.0.0.0)
+Operating System	Android 10
+Touch Screen	Yes (5 touch points)
+User Agent	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+Platform	Linux armv81
+Referring URL	no referrer
+Host Name	94-74-227-227.client.rionet.cz
+ISP	Nej.cz s.r.o.
